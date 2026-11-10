@@ -7,7 +7,7 @@ I am about to complete the final exam for the Information Technology certificate
 \
 Once I gain experience in IT, my aim is to upskill into a Cybersecurity or Data Analyst role. Both of these roles are very important for solving business problems (such as protecting businesses from cyberthreats and gaining insights on sales data).\
 \
-In 2025, I gained my certificate in Google Data Analytics with Coursera, where I learnt how to transform 'dirty data' into actionable insights. I am interested in using these skills for humanitarian work, such as sharing climate change discoveries and statistics with environmental agencies.\
+In 2025, I gained my certificate in Google Data Analytics with Coursera, where I learnt how to transform 'dirty data' into actionable insights. I am interested in using these skills for humanitarian work, such as sharing climate change discoveries and statistics with environmental agencies.
 
 **Current Projects:**
 
