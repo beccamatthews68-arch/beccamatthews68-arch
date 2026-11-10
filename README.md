@@ -25,7 +25,7 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 * Completing my CCNA Certification (To be completed: January 2027)
 * Building a coffee shop network using Cisco Packet Tracer (Tutorial: https://www.youtube.com/watch?v=pKnmaU1zhUI\)
  
-🌱 **I’m currently learning:**\
+🌱 **I’m currently learning:**
 * IT fundamentals such as Hardware, Networking, Ipv4, ports and protocols and The OSI Model
 * Fundamentals in Cybersecurity, Newtorking and Data Analytics
 
@@ -34,9 +34,9 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 Email: beccamatthews68@gmail.com
 LinkedIn: www.linkedin.com/in/rebeccamatthewsIT
 
-😄 Pronouns: She/Her\
-⚡ Fun facts about me:\
+😄 Pronouns: She/Her
+⚡ Fun facts about me:
 * I have worked in the animation industry 🎨
 * I love 80s music 🎧
-*My favourite game is Spyro the Dragon 🐉
+* My favourite game is Spyro the Dragon 🐉
   
