@@ -20,12 +20,12 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 
 🔭 **I’m currently working on:**
 
- *Landing my first IT role\
- *Passing the Information Technology exam with CourseCareers\
- *Completing my CCNA Certification (To be completed: January 2027)\
- *Building a coffee shop network using Cisco Packet Tracer (Tutorial: https://www.youtube.com/watch?v=pKnmaU1zhUI\)
+*Landing my first IT role\
+*Passing the Information Technology exam with CourseCareers\
+*Completing my CCNA Certification (To be completed: January 2027)\
+*Building a coffee shop network using Cisco Packet Tracer (Tutorial: https://www.youtube.com/watch?v=pKnmaU1zhUI\)
  
-🌱 I’m currently learning:\
+🌱 **I’m currently learning:**\
 *IT fundamentals such as Hardware, Networking, Ipv4, ports and protocols and The OSI Model\
 *Fundamentals in Cybersecurity, Newtorking and Data Analytics\
 
