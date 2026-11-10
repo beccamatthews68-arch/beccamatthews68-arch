@@ -11,7 +11,7 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 
 **Current Projects:**
 
-### **Creating a live geo map of attackers**
+### **Cybersecurity Homelab: Creating a live geo map of attackers**
 * deployed a virtual machine in Azure
 * Configured the virtual machine's firewall rules within Azure and Internally to make it vulnerable to attackers
 * Queried failed log in attempts using KQL in Log Analytics Workspace, filtering data for account information, time generated and IpAddress
@@ -35,7 +35,7 @@ Email: beccamatthews68@gmail.com
 LinkedIn: www.linkedin.com/in/rebeccamatthewsIT
 
 😄 Pronouns: She/Her\
-⚡ Fun facts about me:\
+⚡ Fun facts about me:
 * I have worked in the animation industry 🎨
 * I love 80s music 🎧
 * My favourite game is Spyro the Dragon 🐉
