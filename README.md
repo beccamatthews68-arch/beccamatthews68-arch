@@ -26,8 +26,8 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 Email: beccamatthews68@gmail.com
 LinkedIn: www.linkedin.com/in/rebeccamatthewsIT
 
-😄 Pronouns: She/Her
-⚡ Fun facts about me:
+😄 Pronouns: She/Her\
+⚡ Fun facts about me:\
 I have worked in the animation industry 🎨\
 I love 80s music 🎧\
 My favourite game is Spyro the Dragon 🐉
