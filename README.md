@@ -31,7 +31,7 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 
 📫 **How to reach me:**
 
-Email: beccamatthews68@gmail.com
+Email: beccamatthews68@gmail.com\
 LinkedIn: www.linkedin.com/in/rebeccamatthewsIT
 
 😄 Pronouns: She/Her\
