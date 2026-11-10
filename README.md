@@ -28,7 +28,7 @@ LinkedIn: www.linkedin.com/in/rebeccamatthewsIT
 
 😄 Pronouns: She/Her
 ⚡ Fun facts about me:
-I have worked in the animation industry 🎨
-I love 80s music 🎧
+I have worked in the animation industry 🎨\
+I love 80s music 🎧\
 My favourite game is Spyro the Dragon 🐉
   
