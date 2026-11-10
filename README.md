@@ -9,14 +9,14 @@ Once I gain experience in IT, my aim is to upskill into a Cybersecurity or Data 
 \
 In 2025, I gained my certificate in Google Data Analytics with Coursera, where I learnt how to transform 'dirty data' into actionable insights. I am interested in using these skills for humanitarian work, such as sharing climate change discoveries and statistics with environmental agencies.\
 
-- 🔭 I’m currently working on:\
+🔭 I’m currently working on:\
 
  -Landing my first IT role\
  -My CCNA Certification (To be completed: January 2027)\
  -Building a coffee shop network using Cisco Packet Tracer 
  https://www.youtube.com/watch?v=pKnmaU1zhUI\
  
-- 🌱 I’m currently learning ...\
+🌱 I’m currently learning:\
 -IT fundamentals such as Hardware, Networking, Ipv4, ports and protocols and The OSI Model\
 -Fundamentals in Cybersecurity, Newtorking and Data Analytics\
 
@@ -25,9 +25,9 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 Email: beccamatthews68@gmail.com
 LinkedIn: www.linkedin.com/in/rebeccamatthewsIT
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun facts about me:\
+😄 Pronouns: She/Her\
+⚡ Fun facts about me:\
 I have worked in the animation industry 🎨\
 I love 80s music 🎧\
-My favourite game is Spyro the Dragon 🐉\
+My favourite game is Spyro the Dragon 🐉
   
