@@ -11,7 +11,7 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 
 **Current Projects:**
 
-# **Creating a live geo map of attackers**
+### **Creating a live geo map of attackers**
 * deployed a virtual machine in Azure
 * Configured the virtual machine's firewall rules within Azure and Internally to make it vulnerable to attackers
 * Queried failed log in attempts using KQL in Log Analytics Workspace, filtering data for account information, time generated and IpAddress
@@ -29,7 +29,7 @@ In 2025, I gained my certificate in Google Data Analytics with Coursera, where I
 * IT fundamentals such as Hardware, Networking, Ipv4, ports and protocols and The OSI Model
 * Fundamentals in Cybersecurity, Newtorking and Data Analytics
 
-📫 How to reach me:
+📫 **How to reach me:**
 
 Email: beccamatthews68@gmail.com
 LinkedIn: www.linkedin.com/in/rebeccamatthewsIT
