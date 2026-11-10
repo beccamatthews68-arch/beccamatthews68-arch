@@ -1,6 +1,6 @@
-## Hi there 👋 hello
+## Hi there 👋 I'm Becca, an IT Professional 💻
 
-<!--
+
 **beccamatthews68-arch/beccamatthews68-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,4 @@ LinkedIn: www.linkedin.com/in/rebeccamatthewsIT
 I have worked in the animation industry 🎨
 I love 80s music 🎧
 My favourite game is Spyro the Dragon 🐉
--->
+  
