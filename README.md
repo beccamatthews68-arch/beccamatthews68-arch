@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Becca, an IT Professional 💻 with a focus on upskilling into Cybersecurity or Data Analytics
+## Hi there 👋 I'm Becca, an IT Professional 💻 \ with a focus on upskilling into Cybersecurity or Data Analytics
 I am currently based in London and am excited to land my first IT role in order to learn how to solve technical problems and help others.\
 \
 The field of Technology intrigues me as it is ever-changing, meaning that you never stop learning.\
