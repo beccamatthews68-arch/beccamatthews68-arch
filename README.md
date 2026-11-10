@@ -9,7 +9,7 @@ Once I gain experience in IT, my aim is to upskill into a Cybersecurity or Data 
 \
 In 2025, I gained my certificate in Google Data Analytics with Coursera, where I learnt how to transform 'dirty data' into actionable insights. I am interested in using these skills for humanitarian work, such as sharing climate change discoveries and statistics with environmental agencies.\
 
-Current Projects:
+**Current Projects:**
 
 -**Creating a live geo map of attackers**
 * deployed a virtual machine in Azure
@@ -18,7 +18,7 @@ Current Projects:
 * Created a Geoip watchlist in Microsoft Sentinel and used a csv file to convert IpAddresses to geo locations
 * Ran a .json script in a Microsoft Defender workbook, resulting in a geo map of the virtual machine's attackers
 
-🔭 I’m currently working on:
+🔭 **I’m currently working on:**
 
  *Landing my first IT role\
  *Passing the Information Technology exam with CourseCareers\
